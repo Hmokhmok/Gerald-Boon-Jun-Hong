@@ -1,3 +1,2 @@
 # Gerald-Boon-Jun-Hong
-Learning about repository and other stuff. Otherwise this is useless
-Idk what else to add here guys sorry 
+This is a Augmented reality application for virtual shoe fitting in real time which also provide feet measurements after a scan
