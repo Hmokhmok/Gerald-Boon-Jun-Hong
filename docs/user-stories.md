@@ -1,10 +1,13 @@
 # User Stories
 
-Format: As a [type of user], I want [goal], so that [reason or benefit].
+•	As a customer I always wanted the option to see how the shoes looking on my foot before buying it and hence why I wanted to implement augmented reality
+1.	Assuming the user has granted camera permission, when a shoe model is selected and AR mode is started, The system should render a selected 3D shoe model over the users foot.
+2.	Assuming the user haven’t granted camera permission, the application request for camera access permission when AR mode is started
 
-1. As a student I want to  develop myself into competent software engineer, so that i can make my bloodline proud of me
-2. As a student , I want make my mistakes early , so that ill be able to learn from it instead of getting lucky and never learning what can go wrong
-3. As a student, I want finish this in a timely manner , so that my collueges won't be bottleneck by my incompetents
-4.the application will run well and not lag 
-5 the application will only crash 0.01 percent fo the time
+•	As a customer, I always wanted a better way to measure my foot size without the need to manually measuring it and getting the equipment measure it.
+1.	Assuming the user follows the supported measurement procedure, the measurements will displayed in millimeters after procedure is completed
+2.	Assuming the measurement is incomplete, the system will display an error message and prompt the user to try again
+•	As  a customer, I always wanted to get a shoe size recommendation based on my foot measurements to ensure I get a shoe that fits my feet well. 
+1.	Assuming the foot measurements and the selected shoe size information are correct the system will recommend a shoe size.
+2.	Assuming that there are no available shoe size for the user, the system will display a message showing that there is no available shoe of that recommended size
 
